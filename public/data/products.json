@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Aatrox",
+        "description": "Descripción de Aatrox",
+        "price": 100,
+        "image": "/img/Aatrox.png"
+    },
+    {
+        "id": 2,
+        "name": "Ahri",
+        "description": "Descripción de Ahri",
+        "price": 200,
+        "image": "/img/Ahri.png"
+    },
+    {
+        "id": 3,
+        "name": "Akali",
+        "description": "Descripción de Akali",
+        "price": 300,
+        "image": "/img/Akali.png"
+    },
+    {
+        "id": 4,
+        "name": "Akshan",
+        "description": "Descripción de Akshan",
+        "price": 400,
+        "image": "/img/Akshan.png"
+    },
+    {
+        "id": 5,
+        "name": "Alistar",
+        "description": "Descripción de Alistar",
+        "price": 500,
+        "image": "/img/Alistar.png"
+    },
+    {
+        "id": 6,
+        "name": "Amumu",
+        "description": "Descripción de Amumu",
+        "price": 600,
+        "image": "/img/Amumu.png"
+    }
+]
+        
