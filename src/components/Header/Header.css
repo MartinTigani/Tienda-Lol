@@ -10,3 +10,8 @@ logo.container{
     align-items: center;
     font-size: 2rem;;
 }
+
+.logo-container span {
+    font-size: 32px;
+    padding-left: 1rem;
+}
