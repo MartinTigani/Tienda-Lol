@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Aatrox",
         "description": "Descripción de Aatrox",
-        "price": 100,
+        "price": 1000,
         "image": "/img/Aatrox.png"
     },
     {
@@ -17,28 +17,28 @@
         "id": 3,
         "name": "Akali",
         "description": "Descripción de Akali",
-        "price": 300,
+        "price": 2500,
         "image": "/img/Akali.png"
     },
     {
         "id": 4,
         "name": "Akshan",
         "description": "Descripción de Akshan",
-        "price": 400,
+        "price": 2000,
         "image": "/img/Akshan.png"
     },
     {
         "id": 5,
         "name": "Alistar",
         "description": "Descripción de Alistar",
-        "price": 500,
+        "price": 1000,
         "image": "/img/Alistar.png"
     },
     {
         "id": 6,
         "name": "Amumu",
         "description": "Descripción de Amumu",
-        "price": 600,
+        "price": 5000,
         "image": "/img/Amumu.png"
     }
 ]
