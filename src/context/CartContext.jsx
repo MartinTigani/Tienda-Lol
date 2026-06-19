@@ -67,7 +67,7 @@ export const CartProvider = ({ children }) => {
         navigate("/");      //realiza una navegacion programatica a la pagina principal despues de finalizar la compra
     }
 
-    const values={isIncart,addItem, removeItem, clearCart, getTotalItems, getCartTotal, checkout};
+    const values={isIncart,addItem, removeItem, clearCart, getTotalItems, getCartTotal, checkout, cart};
     return <CartContext.Provider value={values}>
         {children}
     </CartContext.Provider>

@@ -13,3 +13,16 @@
     text-decoration: none;
     color: inherit;
 }
+
+.incart {
+    background-color: red;
+    font-size: 1rem;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: top;
+    font-weight: bold;
+}

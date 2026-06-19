@@ -24,7 +24,7 @@ h1 {
   text-align: center;
 }
 .primary {
-  color: #eaeaea;
+  color: #000000;
 }
 
 .secondary {
@@ -50,11 +50,12 @@ h1 {
 
 
 .btn {
-  background-color: rgb(12, 103, 223);
+  /*background-color: rgb(11, 78, 165);*/
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
   border: none;
   cursor: pointer;
+  font-weight: bold;
 }
 
 .btn:hover {
