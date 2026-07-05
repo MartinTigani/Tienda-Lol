@@ -5,7 +5,7 @@ import "./ItemList.css";
 export const ItemList = ({products}) => {
     console.log("products en ItemList:", products);
 
-    if(!products,length){
+    if(!products.length){
         return <p>No hay productos </p>
     }
 
