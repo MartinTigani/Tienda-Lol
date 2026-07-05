@@ -2,6 +2,7 @@
 const IMGBB_API_KEY = "0c332fffbe7f14c1f09eb0fa4c37a4c2"; //👈reemplazan por la suya
 const ENDPOINT = "https://api.imgbb.com/1/upload";
 
+
 export const uploadImage = async (file) => {
   const formData = new FormData();
   formData.append("image", file);
